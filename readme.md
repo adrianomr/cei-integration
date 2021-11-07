@@ -17,6 +17,6 @@ pip install -r requirements.txt
 
 python3 manage.py runserver --noreload
 
-## Run database migrations
+## Database migrations
 
 python3 manage.py migrate
