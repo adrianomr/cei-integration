@@ -3,6 +3,7 @@
 ## Preparing enviroment
 
 export AMAZON_ACCESS_KEY_ADRIANO=<YOUR_AMAZON_ACCESS_KEY>
+
 export AMAZON_SECRET_KEY_ADRIANO=<YOUR_AMAZON_SECRET_KEY>
 
 ## Updating libs
