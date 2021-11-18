@@ -16,7 +16,7 @@ class CeiIntegrationProducer:
     )
 
     # Get the queue
-    queue = sqs.get_queue_by_name(QueueName='update-portfolio.fifo')
+    queue = sqs.get_queue_by_name(QueueName='cei-integration.fifo')
 
     def sendMessage(message):
 
